@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Über Uns
 ---
+Diese Webseite wurde ehrenamtlich von ausländischen Studenten, die DSH Erfahrung haben, gegründet. Die Idee hierfür kam, als ich DSH Termine suchte, habe ich gemerkt, dass die Termine und Prüfungsinhalte in jeder Hochschule unterschiedlich sind. Ebenfalls die Hochschul-Webseiten kompliziert für die Studenten sind, um DSH Termine oder Informationen zu finden.
+Auf dieser Webseite kann man kommende DSH Termine in verschiedenen Hochschulen anschauen und für weitere Informationen und Anmeldungen sich direkt durch den Link der Hochschulseite verbinden lassen.
 
-My name is Inigo Montoya. I have the following qualities:
+Durch diese Webseite könnte die Suche nach DSH Terminen erleichtert werden.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Ich hoffe, dass diese Webseite für euch hilfreich wird.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Viel Erfolg!
